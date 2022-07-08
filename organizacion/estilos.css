@@ -1,0 +1,36 @@
+header{
+    height:  230px;
+    background-color:rgb(185, 99, 74);
+    border-radius: 10px;
+    border: 10px solid coral;
+}
+
+main{
+    height: 130px;
+    background-color: rgb(141, 57, 32);
+    border-radius: 10px;
+    border: 10px solid coral;
+
+}
+
+aside{
+    height: 230px;
+    background-color:rgb(169, 6, 104) ;
+    border-radius: 10px;
+    border: 10px solid coral;
+}
+
+footer{
+    height: 230px;
+    background-color:rgb(227, 150, 128) ;
+    border-radius: 10px;
+    border: 10px solid coral;
+    
+}
+
+#titulo {
+    padding: 4px 8px 9px 10px ;
+    border: 10px  rgb(255, 198, 182); 
+    border: 10px solid coral;
+    border-radius: 15%;
+}

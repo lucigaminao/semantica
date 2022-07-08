@@ -1,0 +1,61 @@
+header {
+    background-color: rgb(188, 65, 65);
+    justify-content: center;
+    display: flex;
+
+    
+}
+main {
+    height: 800px;
+    background-color: rgba(19, 71, 30, 0.703);
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#menu li {
+    display: inline;
+    padding: 3px;
+    background-color: rgb(177, 96, 96);
+    margin: 40px;
+    border-radius: 10%;
+    border: rgb(176, 67, 67) solid 2px;
+    /* border-color: rgb(160, 103, 103); */
+    font-size: 0.7cm;
+}
+.icono {
+    height: 20px;
+    width: 20px;
+}
+a {
+    color: rgb(236, 238, 239);
+}
+
+h2 {
+    font-size: 35px;
+    background-color: white;
+   
+   
+}
+
+h3 {
+    background-color: rgba(52, 93, 68, 0.587);
+    border: rgb(190, 138, 149);
+    color: aliceblue;
+    
+    
+}
+.confirmar{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.us{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+

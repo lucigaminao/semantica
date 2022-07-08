@@ -1,0 +1,90 @@
+main{
+    background-color: rgb(182, 119, 168);
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+}
+
+
+
+img{
+    
+    width: 100%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+
+}
+
+
+
+#div2 {
+    width: 500px;
+    background-color: rgb(200, 135, 181);
+   
+}
+img{
+    /* width: 500px;
+    height: 500px; */
+}
+h2{
+    /* background-color: rgb(212, 103, 103); */
+}
+
+#div3 {
+    width:500px ;
+    background-color: rgb(171, 94, 152);
+}
+
+
+/* */
+.caja {
+    width: 500px;
+
+    background-color: #d575c3ef;
+    margin: 10px;
+    border-radius: 10%;
+   
+}
+
+/*
+SELECCION LOS ELEMENTOS LI DEL ID MENU
+PARA HACER QUE LAS LISTA SEA HORIZONTAL
+*/
+
+#menu li {
+    display: inline;
+    padding: 3px;
+    background-color: rgb(155, 65, 121);
+    margin: 40px;
+    border-radius: 10%;
+    border: rgb(163, 63, 125);
+    border-color: bisque;
+    font-size: 0.7cm;
+}
+
+.icono {
+    width: 30px;
+    height: 30px;
+    float: right
+    ;
+}
+header{
+    background-color: rgb(169, 103, 138);
+    text-align: center;
+}
+
+.contacto{
+   margin: 10px;
+}
+#cuerpo {
+    display: flex;
+    justify-content:center ;
+    flex-direction: column;
+}
+input {
+    background-color: rgba(203, 84, 84, 0.604);
+    border-radius: 10%;
+    border: 50px;
+    border-color: blanchedalmond;
+}

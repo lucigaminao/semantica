@@ -1,0 +1,42 @@
+#div1 {
+    height: 600px; 
+    width: 600px;
+    background: #776880a9;
+    margin: 20px 400px 70px 400px;
+    
+}
+#div2 {
+    width: 550px;           /* Ancho de 150 píxeles */
+    height: 550px;          /* Alto de 150 píxeles */
+    background: rgb(105, 72, 228);        /* Fondo de color rojo */
+   margin: 25px;
+  }
+
+  main{
+      display: flex;
+      justify-content: center;
+  }
+  #div3 {
+      background-color: rgb(86, 57, 116);
+      margin: 25px;
+      width: 500px;
+      height: 500px;
+  }
+  #div4{
+      background-color: rgb(132, 0, 255);
+      margin: 25px;
+      width: 450px;
+      height: 450px;
+  }
+  #div5{
+      background-color: rgb(107, 78, 135);
+      margin:25px;
+      width: 400px;
+      height: 400px;
+  }
+
+  main {
+      display:flex;
+      justify-content: center;
+  }
+  
